@@ -1,6 +1,12 @@
 # BPA
 
-Code for our NeruIPS 2023 paper [Rethinking the Backward Propagation for Adversarial Transferability](https://arxiv.org/abs/2306.12685)
+This repository contains code to reproduce results from the paper:
+
+[Rethinking the Backward Propagation for Adversarial Transferability](https://arxiv.org/abs/2306.12685) (NeurIPS 2023)
+
+Xiaosen Wang, Kangheng Tong, Kun He
+
+> We also include the code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttackx).
 
 ## Environments
 
@@ -85,11 +91,11 @@ python attack_eval_imagenet.py --epsilon 0.03 --sgm_lambda 1.0 --niters 10 --met
 ## Citation
 
 ```tex
-@article{wang2023rethinking,
-  title={Rethinking the Backward Propagation for Adversarial Transferability},
-  author={Wang, Xiaosen and Tong, Kangheng and He, Kun},
-  journal={arXiv preprint arXiv:2306.12685},
-  year={2023}
+@inproceedings{wang2023rethinkinga,
+     title={{Rethinking the Backward Propagation for Adversarial Transferability}},
+     author={Xiaosen Wang and Kangheng Tong and Kun He},
+     booktitle={Proceedings of the Advances in Neural Information Processing Systems},
+     year={2023}
 }
 ```
 
