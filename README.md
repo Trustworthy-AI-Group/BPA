@@ -6,7 +6,7 @@ This repository contains code to reproduce results from the paper:
 
 Xiaosen Wang, Kangheng Tong, Kun He
 
-> We also include the code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttackx).
+> We also include the code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack).
 
 ## Environments
 
